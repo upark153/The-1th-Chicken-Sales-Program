@@ -1,5 +1,7 @@
 # The-1th-Chicken-Sales-Program
 Chicken sales were programmed with the Python console.
+![image](https://user-images.githubusercontent.com/115389450/233545594-1654b94c-1ac8-4525-b4fe-8eac6667e008.png)
+
 ![image](https://user-images.githubusercontent.com/115389450/233535820-e9514b25-a2ed-4cb9-bca9-34efe47a6610.png)
 ![image](https://user-images.githubusercontent.com/115389450/233535850-8ddcf230-90d6-46bd-8016-7284da7d9e9e.png)
 ![image](https://user-images.githubusercontent.com/115389450/233535877-c77f7090-c79d-4a20-bf89-767160ef978b.png)
@@ -193,7 +195,10 @@ print(maintainance)
 ![image](https://user-images.githubusercontent.com/115389450/233544115-1ee40111-cde2-44f5-81f3-1eecd304b586.png)
 ![image](https://user-images.githubusercontent.com/115389450/233544144-90cdebf3-21c9-4a3f-b2c8-155aa7e69582.png)
 ![image](https://user-images.githubusercontent.com/115389450/233544173-bb5ab93e-e19e-4a8d-ae80-e84b9b379e22.png)
+
 [구조도 참고한 사이트](http://www.tcpschool.com/codingmath/flowchart)
+
+![image](https://user-images.githubusercontent.com/115389450/233545076-328688d0-6aa6-449d-9dc8-aa3e65c8a9db.png)
 
 
 
