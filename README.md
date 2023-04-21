@@ -187,3 +187,15 @@ print(maintainance)
 ![image](https://user-images.githubusercontent.com/115389450/233536941-4ee8d60d-d81a-49a7-9078-54fede8d07dd.png)
 [딕셔너리 참조사이트](https://hun931018.tistory.com/56)
 [딕셔너리 밸류값 참조](https://www.delftstack.com/ko/howto/python/python-sum-dictionary-values/)
+
+![image](https://user-images.githubusercontent.com/115389450/233544051-4a2e1fab-32f7-428b-abb6-1ffc929ed65f.png)
+![image](https://user-images.githubusercontent.com/115389450/233544078-3443582d-f330-43a6-b6f7-6a5834544d4f.png)
+![image](https://user-images.githubusercontent.com/115389450/233544115-1ee40111-cde2-44f5-81f3-1eecd304b586.png)
+![image](https://user-images.githubusercontent.com/115389450/233544144-90cdebf3-21c9-4a3f-b2c8-155aa7e69582.png)
+![image](https://user-images.githubusercontent.com/115389450/233544173-bb5ab93e-e19e-4a8d-ae80-e84b9b379e22.png)
+[구조도 참고한 사이트](http://www.tcpschool.com/codingmath/flowchart)
+
+
+
+
+
